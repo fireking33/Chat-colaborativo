@@ -67,11 +67,18 @@ python Client.py
 
  Características implementadas
 
--✅ Comunicación en tiempo real vía WebSocket
--✅ Asignación automática de nombre si no se ingresa uno
--✅ Mensajes se muestran con nombre de usuario
--✅ Notificaciones de conexión y desconexión
--✅ Historial por usuario almacenado en archivos .txt
--✅ Mensajes persistentes en sesión por usuario
--✅ Interfaz completamente por consola (sin GUI)
--✅ Código organizado y entendible para defensa
+Comunicación en tiempo real vía WebSocket
+
+Asignación automática de nombre si no se ingresa uno
+
+Mensajes se muestran con nombre de usuario
+
+Notificaciones de conexión y desconexión
+
+Historial por usuario almacenado en archivos .txt
+
+Mensajes persistentes en sesión por usuario
+
+Interfaz completamente por consola (sin GUI)
+
+Código organizado y entendible para defensa
