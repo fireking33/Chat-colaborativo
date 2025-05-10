@@ -1,16 +1,16 @@
-# 🧠 Chat colaborativo en tiempo real con WebSocket
+ Chat colaborativo en tiempo real con WebSocket
 
 Este proyecto implementa un **chat colaborativo en consola**, permitiendo la comunicación en tiempo real entre varios usuarios conectados mediante **WebSocket**. La ejecución se basa en Python e incluye funcionalidad de mensajes, nombres automáticos y un historial por usuario.
 
----
 
-## 🎯 Objetivo
+
+ Objetivo
 
 Permitir que varios estudiantes interactúen en tiempo real desde terminal, usando una conexión persistente (`WebSocket`), sin técnicas tradicionales como `polling` o `long-polling`.
 
----
 
-## 📁 Estructura del proyecto
+
+ Estructura del proyecto
 Chat-colaborativo/
 ├── Historial/
 ├── Client.py
@@ -18,26 +18,26 @@ Chat-colaborativo/
 ├── README.md
 └── Servidor_general.log
 
----
 
-## ⚙️ Tecnologías utilizadas
+
+ Tecnologías utilizadas
 
 - **Lenguaje:** Python 3.11 o superior
 - **Librerías externas:**
   - [`websockets`](https://pypi.org/project/websockets/) – Comunicación WebSocket entre cliente y servidor
   - [`aioconsole`](https://pypi.org/project/aioconsole/) – Entrada/salida asincrónica en consola
 
----
 
-## 🚀 Pasos para ejecutar el programa
+
+ Pasos para ejecutar el programa
 
 ### 2. Clonar el repositorio
 
 Selecciona la carpeta de tu agrado y ejecuta el siguiente comando
 
-```bash
+
 git clone https://github.com/fireking33/Chat-colaborativo.git
-```
+
 
 ### 2. Instalar dependencias
 
@@ -50,25 +50,22 @@ pip install aioconsole
 
 ### 3. Ejecutar el servidor (en una terminal)
 
-```bash
-cd Chat-colaborativo
-```
 
-```bash
+
+
+
 python Server.py
-```
+
 
 ### 4. Ejecutar el servidor (en una terminal)
 
-```bash
+
 cd Chat-colaborativo
-```
 
-```bash
 python Client.py
-```
 
-## 👥 Características implementadas
+
+ Características implementadas
 
 -✅ Comunicación en tiempo real vía WebSocket
 -✅ Asignación automática de nombre si no se ingresa uno
