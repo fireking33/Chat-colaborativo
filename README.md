@@ -1,4 +1,4 @@
- Chat colaborativo en tiempo real con WebSocket
+ ## Chat colaborativo en tiempo real con WebSocket
 
 Este proyecto implementa un **chat colaborativo en consola**, permitiendo la comunicación en tiempo real entre varios usuarios conectados mediante **WebSocket**. La ejecución se basa en Python e incluye funcionalidad de mensajes, nombres automáticos y un historial por usuario.
 
@@ -6,7 +6,7 @@ Este proyecto implementa un **chat colaborativo en consola**, permitiendo la com
 
  Objetivo
 
-Permitir que varios estudiantes interactúen en tiempo real desde terminal, usando una conexión persistente (`WebSocket`), sin técnicas tradicionales como `polling` o `long-polling`.
+Permitir que varios estudiantes interactúen en tiempo real desde terminal, usando una conexión persistente (`WebSocket`)
 
 
 
