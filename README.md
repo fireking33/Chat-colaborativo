@@ -23,7 +23,7 @@ Permitir que varios estudiantes interactúen en tiempo real desde terminal, usan
 
 ## Tecnologías utilizadas
 
-- Lenguaje: Python 3.11 o superior
+- Lenguaje: Python 3.13 o superior
 
 - Librerías externas:
 
@@ -35,7 +35,7 @@ Permitir que varios estudiantes interactúen en tiempo real desde terminal, usan
 
 ## Pasos para ejecutar el programa
 
-### 2. Clonar el repositorio
+### 1. Clonar el repositorio
 
 Selecciona la carpeta de tu agrado y ejecuta el siguiente comando
 
