@@ -39,7 +39,7 @@ Selecciona la carpeta de tu agrado y ejecuta el siguiente comando
 git clone https://github.com/fireking33/Chat-colaborativo.git
 
 
-### 2. Instalar dependencias
+### 3. Instalar dependencias
 
 Solo la primera vez, ejecuta:
 
@@ -48,7 +48,7 @@ pip install websockets
 pip install aioconsole
 ```
 
-### 3. Ejecutar el servidor (en una terminal)
+### 4. Ejecutar el servidor (en una terminal)
 
 
 
@@ -57,7 +57,7 @@ pip install aioconsole
 python Server.py
 
 
-### 4. Ejecutar el servidor (en una terminal)
+### 5. Ejecutar el servidor (en una terminal)
 
 
 cd Chat-colaborativo
